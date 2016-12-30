@@ -9,8 +9,10 @@
 * Rolling restart of services		
 
 * High availability (HA) support
-         * CDH 4 - HDFS and MapReduce JobTracker (CDH 4.2)
-         * CDH 5 - HDFS, Hive Metastore, Hue, Impala Llama ApplicationMaster, MapReduce JobTracker, Oozie, YARN ResourceManager
+
+   * CDH 4 - HDFS and MapReduce JobTracker (CDH 4.2)
+         
+   * CDH 5 - HDFS, Hive Metastore, Hue, Impala Llama ApplicationMaster, MapReduce JobTracker, Oozie, YARN ResourceManager
 
 * HBase co-processor support		
 
